@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="todo-app">
-      <h1>Dark Todo List 🌙</h1>
+      <h1>Todo List 🌙</h1>
       <div className="input-container">
         <input
           type="text"
